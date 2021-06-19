@@ -1,4 +1,4 @@
-### Hi, I'm Vira 👋
+### Hi There 👋
 
 I'm Vira, an Informatics Engineering's fresh graduate. I'm Back End and Android Development enthusiast. I love learn something new by doing it, so this is my personal projects code repository! 
 
