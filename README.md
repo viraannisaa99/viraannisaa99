@@ -5,6 +5,6 @@ I'm Vira, an Informatics Engineering's fresh graduate. I'm Back End and Android 
 - Language: PHP, Java, Javascript
 - Framework: Spring Boot, Laravel, CodeIgniter
 - Database: MySQL, SQLite, SQL Server
-- I’m currently in process of learning Nodejs (Hapi) and Flutter
+- I’m currently in process of learning Nodejs (Hapi)
 - How to reach me: https://id.linkedin.com/in/viraannisaa99
 - Visit my portfolio website: https://myworks1010.wordpress.com.
