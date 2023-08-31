@@ -1,8 +1,8 @@
 ### Hi There 👋
 
-I'm Vira, an Informatics Engineering's fresh graduate. Welcome to my personal code repository! 
+Welcome to my personal code repository! 
 
-- Language: PHP, Java, Javascript
+- Language: PHP, Javascript, Java
 - Framework: Spring Boot, Laravel, CodeIgniter, NodeJs
 - Database: MySQL, SQL Server
 - Currently on process of learning Nodejs & MongoDB
