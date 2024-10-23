@@ -2,7 +2,7 @@
 
 Welcome to my personal code repository! 
 
-- Language: PHP, Javascript, Python, Java
+- Programming Language: PHP, Javascript, Python, Java
 - Back End Framework: Laravel, Spring Boot, CodeIgniter, Node.js, Hapi.js
 - Front End Framework: React, Next.js, Express.js, Vue.js Bootstrap 5
 - Database: MySQL, Micorost SQL Server (T-SQL/PL/SQL), MongoDB (NoSQL)
